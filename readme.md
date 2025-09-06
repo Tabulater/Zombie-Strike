@@ -1,6 +1,32 @@
 # Operation: Zombie Strike
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Pygame](https://img.shields.io/badge/pygame-2.5.2-green.svg)](https://www.pygame.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A tactical survival game where you must eliminate zombies and survive in a post-apocalyptic world. Built with Python and Pygame.
+
+## Download and Installation
+
+### Prerequisites
+- Python 3.8 or higher
+- pip (Python package installer)
+
+### Installation
+1. **Download the latest release** from the [Releases](https://github.com/yourusername/zombie-strike/releases) page
+2. **Extract the ZIP file** to your preferred location
+3. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Launch the game**:
+   ```bash
+   python Tatipamula_Culminating.py
+   ```
+   Or use the launcher:
+   ```bash
+   python launch_game.py
+   ```
 
 ## Game Overview
 

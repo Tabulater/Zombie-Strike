@@ -1,0 +1,17 @@
+﻿QUICK START GUIDE
+================
+
+1. Extract the ZIP file to a folder of your choice
+2. Double-click 'Launch Game.bat' to start playing!
+
+For detailed installation instructions, see INSTALL.txt
+For game information, see readme.md
+
+CONTROLS:
+- Arrow Keys: Move and Jump
+- Space: Shoot
+- R: Reload
+- Left Click: Throw grenade (hold to aim)
+- ESC: Pause/Quit to menu
+
+Need help? Check INSTALL.txt for troubleshooting.

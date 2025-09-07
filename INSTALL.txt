@@ -1,6 +1,7 @@
 ZOMBIE STRIKE - INSTALLATION GUIDE
 =================================
 
+
 1. EXTRACT THE GAME FILES
    ---------------------
    - Right-click on the downloaded ZIP file
@@ -21,27 +22,16 @@ ZOMBIE STRIKE - INSTALLATION GUIDE
 
 3. INSTALL REQUIRED PACKAGES
    ------------------------
-   Method A - Using Command Prompt (Recommended):
-   - Press Windows + R, type 'cmd', press Enter
-   - Navigate to the game folder using 'cd' command:
-     Example: cd "C:\Users\YourUsername\Documents\ZombieStrike"
-   - Run: pip install -r requirements.txt
-
-   Method B - Using File Explorer:
-   - Open the game folder in File Explorer
-   - Click in the address bar, type 'cmd', press Enter
-   - In the command window, type: pip install -r requirements.txt
-   - Press Enter
+- Run: pip install pygame
 
 4. LAUNCH THE GAME
    --------------
    Option 1 - Easy Double-Click:
    - Simply double-click 'Launch Game.bat' in the game folder
 
-   Option 2 - Using Command Line:
-   - Open Command Prompt in the game folder
-   - Type: python launch_game.py
-   - Press Enter
+OR 
+
+- Run:  Tatipamula_Culminating.py
 
 TROUBLESHOOTING
 ---------------
@@ -49,10 +39,6 @@ TROUBLESHOOTING
   - Make sure Python is installed and added to PATH
   - Try using 'py' instead of 'python' in commands
   - Restart your computer after Python installation
-
-- If you get pygame errors:
-  - Make sure you ran: pip install -r requirements.txt
-  - Try: pip install --upgrade pygame
 
 - For other issues, please refer to README.md or contact support
 
@@ -63,4 +49,3 @@ ENJOY THE GAME!
 - Left-click to throw grenades
 - ESC to pause
 
-Need help? Contact: [Your Contact Info]

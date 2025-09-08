@@ -1,50 +1,68 @@
-# Operation: Zombie Strike
+# Zombie Strike
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Pygame](https://img.shields.io/badge/pygame-2.5.2-green.svg)](https://www.pygame.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A tactical survival game where you must eliminate zombies and survive in a post-apocalyptic world. Built with Python and Pygame.
+An intense 2D side-scrolling shooter where you must survive against waves of zombies in a post-apocalyptic world. Built with Python and Pygame.
 
-## Download and Installation
+## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.8 or higher
-- pip (Python package installer)
+- Windows OS
+- No installation required - just download and play!
 
-### Installation
-1. **Download the latest release** from the [Releases](https://github.com/yourusername/zombie-strike/releases) page
-2. **Extract the ZIP file** to your preferred location
-3. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Launch the game**:
-   ```bash
-   python Tatipamula_Culminating.py
-   ```
-   Or use the launcher:
-   ```bash
-   python launch_game.py
-   ```
+### How to Play
+1. Download the latest `ZombieStrike.exe` from the [Releases](https://github.com/Tabulater/Zombie-Strike/releases) page
+2. Double-click `ZombieStrike.exe` to start the game
+3. Use the following controls:
+   - **WASD** or **Arrow Keys**: Move
+   - **Mouse**: Aim
+   - **Left Click**: Shoot
+   - **Right Click**: Throw grenade
+   - **R**: Reload
+   - **1-2**: Switch weapons
+   - **ESC**: Pause game
 
-## Game Overview
+## 🎮 Game Features
 
-Operation: Zombie Strike is a 2D side-scrolling shooter where players take on the role of a military operative tasked with clearing an area of zombies. The game features dynamic day/night cycles, multiple waves of enemies, and various weapons at your disposal.
+### Intense Combat
+- Face relentless waves of zombies with increasing difficulty
+- Dual-wield powerful weapons: assault rifle and grenades
+- Strategic ammo and health management
+- Challenging boss battles
 
-## Features
+### Immersive Experience
+- Dynamic day/night cycle system
+- High-quality sound effects and background music
+- Smooth animations and visual effects
+- Engaging mission progression
 
-### Core Gameplay
-- Three challenging waves of zombies with increasing difficulty
-- Dynamic day/night cycle affecting the game's atmosphere
-- Multiple weapons: semi-automatic rifle and grenades
-- Health and ammunition management system
-- Wave-based progression system
-- Mission completion with extraction cutscene
+## 🛠 Development
 
-### Visual Elements
-- Smooth character animations for player and zombies
-- Dynamic background transitions between day and night
+### For Developers
+If you want to modify the game, you'll need:
+- Python 3.8+
+- Pygame 2.5.2
+- Other dependencies in `requirements.txt`
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the game
+python ZombieStrike.py
+```
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Credits
+
+- Game developed by [Your Name]
+- Sound effects and music by [Credits]
+- Special thanks to all playtesters
 - Particle effects for explosions and projectiles
 - Health bars and ammunition counters
 - Wave information display
